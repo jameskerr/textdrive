@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="pref_eta"
+        android:summary="@string/pref_eta_description"
+        android:title="@string/pref_eta_title" />
+    
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_signature"
+        android:summary="@string/pref_signature_description"
+        android:title="@string/pref_signature_title"
+		/>
+
+</PreferenceScreen>
+<!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/xml/pref_general.xml -->

@@ -1,0 +1,5 @@
+/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/classes/debug
+/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-02706dfd2d5d41e323e84ab06f0c83ac308f7028.jar
+/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1a0e4439f6042bd815b1878bfa49934b99dbb378.jar
+/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/classes-10caac0f06ea0e4cbeef4086c69a73100f6d86bd.jar
+/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/classes-d4904f129d4fe32a342b567803342d01e516e7bd.jar

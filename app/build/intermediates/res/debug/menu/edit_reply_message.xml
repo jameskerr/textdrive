@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="info.jameskerr.textdrive.EditReplyMessageActivity" >
+
+    <item
+        android:id="@+id/reply_message_shadow"
+        android:orderInCategory="100"
+        android:title="@string/action_save_reply_message"
+        android:icon="@drawable/action_save" 
+        app:showAsAction="always"/>
+</menu>
+<!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/menu/edit_reply_message.xml -->

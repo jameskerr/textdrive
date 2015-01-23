@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1a0e4439f6042bd815b1878bfa49934b99dbb378.jar" />
+    </item>
+    <item
+        jar="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/classes-d4904f129d4fe32a342b567803342d01e516e7bd.jar" />
+    </item>
+    <item
+        jar="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/classes-10caac0f06ea0e4cbeef4086c69a73100f6d86bd.jar" />
+    </item>
+    <item
+        jar="/Users/jkerr/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-02706dfd2d5d41e323e84ab06f0c83ac308f7028.jar" />
+    </item>
+
+</items>
