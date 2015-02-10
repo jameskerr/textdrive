@@ -3,7 +3,7 @@
 
     <string name="app_name">Text &amp; Drive</string>
     <string name="action_settings">Settings</string>
-    <string name="reply_message_label">What is your auto-reply message?</string>
+    <string name="reply_message_label">Edit your auto-reply message:</string>
     <string name="toggle_activation_on">Auto-reply is On</string>
     <string name="toggle_activation_off">Auto-reply is Off</string>
     <string name="title_activity_edit_reply_message">Edit Auto-reply Message</string>

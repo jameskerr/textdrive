@@ -33,13 +33,11 @@ public class AutoReply {
 	private String                  current_message;
 	private int                     default_duration;
 	private int                     duration;
-	private ArrayList<Message>       history;
+	private ArrayList<Message>      history;
 	private boolean                 include_eta;
 	private boolean                 include_signature;
 	private static AutoReply        instance = null;
 	private HashMap<String, String> sent_messages;
-	
-	
 
 	/******************************************
 	* ::: CONSTRUCTORS & SINGLETON ACCESS ::: *
@@ -52,7 +50,7 @@ public class AutoReply {
 		this.duration         = 6000; // 15 Minutes
 		this.default_duration = 6000; // 15 Minutes
 		this.history          = new ArrayList<Message>();
-		
+
 		this.sent_messages    = new HashMap<String, String>();
 	}
 	

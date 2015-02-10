@@ -43,13 +43,16 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:textAppearance="?android:attr/textAppearanceSmall"
-                android:text="Sorry, I am driving right now, but I will call you back as soon as I can."
+                android:text="Sorry, I am driving right now, but I will asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfcall you back as soon as I can."
                 android:id="@+id/message"
                 android:layout_below="@+id/message_label"
                 android:background="@drawable/text_bubble"
-                android:padding="20dp"
                 android:layout_weight="3"
-                android:typeface="normal" />
+                android:typeface="normal"
+                android:paddingLeft="20dp"
+                android:paddingTop="20dp"
+                android:paddingRight="40dp"
+                android:paddingBottom="20dp" />
 
             <ImageView
                 android:layout_width="50dp"

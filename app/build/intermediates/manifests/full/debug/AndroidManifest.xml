@@ -51,6 +51,7 @@
 
         <activity
             android:name="info.jameskerr.textdrive.SettingsActivity"
+            android:parentActivityName="info.jameskerr.textdrive.MainActivity" >
             android:label="@string/title_activity_settings" >
         </activity>
     </application>

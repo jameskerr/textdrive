@@ -153,13 +153,13 @@
     <string name="notification_title">Text &amp; Drive Activated</string>
     <!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
-    <string name="pref_eta_description">Include the estamated time of arrival in your auto-reply messages.  For example, "ETA: 1 hour 15 minutes"</string>
+    <string name="pref_eta_description">Include the estimated time of arrival in your auto-reply messages.  For example, "ETA: 1 hour 15 minutes"</string>
     <string name="pref_eta_title">Include ETA</string>
     <string name="pref_signature_description">Include "Auto Sent via Text &amp; Drive" at the end of your auto-reply messages.</string>
     <string name="pref_signature_title">Include App Signature</string>
     <!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="reply_message_label">What is your auto-reply message?</string>
+    <string name="reply_message_label">Edit your auto-reply message:</string>
     <string name="timer_label_active">Your ETA:</string>
     <string name="timer_label_inactive">How long will you be driving?</string>
     <string name="title_activity_edit_reply_message">Edit Auto-reply Message</string>
@@ -183,6 +183,11 @@
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/values/themes.xml.xml -->
+    <eat-comment/>
+    <style name="TextAndDriveTheme" parent="android:style/Theme.NoTitleBar">
+        <item name="android:buttonStyle">@style/clear_button</item>
     </style>
     <!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment/>
@@ -704,4 +709,19 @@
     <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar"/>
     <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"/>
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"/>
+    <!-- From: file:/Users/jkerr/AndroidStudioProjects/textdrive/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="clear_button" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">#FFFFFFFF</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">0.2</item>
+        <item name="android:textSize">16dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">@drawable/clear_button</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
 </resources>
